@@ -1,5 +1,7 @@
 print ("Hola mundo")
 
-print("Generando cambios en el codigo")
+print("Vamos a crear nuestro primer programa")
+
+nombre =input("Introduzca el nombre del programa:")
 
 print("Fin del programa")
